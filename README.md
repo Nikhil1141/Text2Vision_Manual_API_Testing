@@ -34,5 +34,5 @@ Browsers: Chrome (latest), Firefox (latest), Safari (latest)
 
 Devices: Desktop (Windows/Mac), Mobile (iOS/Android)
 
-Network Conditions: WiFi, 4G
+Network Conditions: WiFi, 5G
 
