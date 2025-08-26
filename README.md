@@ -1,38 +1,43 @@
-#**Manual Testing Documentation for Text2Vision**
+**Text2Vision – Manual & API Testing**<br><br>
+📌 **Project Overview**
+
+This project focuses on testing Text2Vision, a web application that converts text descriptions into AI-generated images. The goal of the project was to validate the functionality, usability, and reliability of the application using Manual Testing and API Testing techniques.<br><br>
+
+🎯 **Objectives**
+
+Ensure all core features of Text2Vision work as intended.
+
+Identify and log defects in the application.
+
+Validate both UI flow and API endpoints for stability and accuracy.
+
+Provide proper test documentation and evidence for defect tracking.<br><br>
+
+🛠 **Tools & Technologies Used**
+
+Excel → Test case design & execution
+
+Jira → Defect tracking & reporting
+
+Postman → API testing (GET/POST/DELETE requests validation)
+
+Microsoft Word → Test evidence documentation with screenshots<br><br>
+
+✅ **Types of Testing Performed**
+
+Functional Testing
+
+UI Testing
+
+API Testing (GET & POST & DELETE requests validation)
+
+End-to-End Flow Validation<br><br>
 
 
-**Manual Testing Overview:**
+Designing structured test cases and mapping them with requirements.
 
-Our manual testing process ensures the Text2Vision platform meets all functional requirements and provides an optimal user experience. This comprehensive testing approach verifies all critical user flows before each release.
+Working with Jira for defect tracking and lifecycle management.
 
-Test Cases Executed:
+Using Postman for API request/response validation.
 
-✅ TC01_Login with Valid Credentials
-
-✅ TC02_Login with Invalid Credentials
-
-✅ TC03_Signup with Valid Details
-
-✅ TC04_Signup with Missing Fields
-
-✅ TC05_Generate Image with Valid Prompt
-
-✅ TC06_Generate Image with No Prompt
-
-✅ TC07_Check Image History
-
-✅ TC08_Validate Logout Functionality
-
-✅ TC09_Validate Payment Process
-
-<br>
-
-
-**Test Environment**
-
-Browsers: Chrome (latest), Firefox (latest), Safari (latest)
-
-Devices: Desktop (Windows/Mac), Mobile (iOS/Android)
-
-Network Conditions: WiFi, 5G
-
+Preparing professional testing documentation for real-world QA scenarios.
